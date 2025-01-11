@@ -44,4 +44,5 @@ redundant_columns = [
     'Zipcode'
 ]
 
-
+Splitting criteria:
+The dataset was split into three subsets based on the presence of null values: 75% of the data, including both non-null and partial-null rows, was allocated to the training set. The validation set and test set, containing only rows with no null values, were each assigned 15% and 10% of the total data, respectively.

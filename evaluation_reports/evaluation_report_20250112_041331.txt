@@ -1,0 +1,28 @@
+=== Model Evaluation Report ===
+
+Timestamp: 20250112_041331
+Model: /teamspace/studios/this_studio/Assignment-TechstaX/models/final_model.pt
+Test Data: /teamspace/studios/this_studio/Assignment-TechstaX/data/test_data.csv
+
+=== Basic Metrics ===
+accuracy: 0.9380
+macro_f1: 0.7353
+weighted_f1: 0.9362
+macro_precision: 0.8184
+macro_recall: 0.6906
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+           1       0.84      0.41      0.55      8816
+           2       0.96      0.97      0.96    653712
+           3       0.83      0.85      0.84     91489
+           4       0.64      0.53      0.58     18822
+
+    accuracy                           0.94    772839
+   macro avg       0.82      0.69      0.74    772839
+weighted avg       0.94      0.94      0.94    772839
+
+Results have been saved to:
+- Metrics JSON: /teamspace/studios/this_studio/Assignment-TechstaX/evaluation_reports/evaluation_metrics_20250112_041331.json
+- Confusion Matrix Plot: /teamspace/studios/this_studio/Assignment-TechstaX/evaluation_reports/confusion_matrix_20250112_041331.png

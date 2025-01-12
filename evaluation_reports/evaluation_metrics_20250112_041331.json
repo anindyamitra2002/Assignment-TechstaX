@@ -1,0 +1,77 @@
+{
+    "basic_metrics": {
+        "accuracy": 0.9380478987214672,
+        "macro_f1": 0.73532130131599,
+        "weighted_f1": 0.9361766724241521,
+        "macro_precision": 0.8184002462565962,
+        "macro_recall": 0.6906494312466297
+    },
+    "classification_report": {
+        "1": {
+            "precision": 0.8362425355994488,
+            "recall": 0.41299909255898365,
+            "f1-score": 0.5529233105542901,
+            "support": 8816.0
+        },
+        "2": {
+            "precision": 0.9603304583116811,
+            "recall": 0.9696456543554348,
+            "f1-score": 0.9649655760352879,
+            "support": 653712.0
+        },
+        "3": {
+            "precision": 0.834033749272645,
+            "recall": 0.8460033446643859,
+            "f1-score": 0.8399759076677645,
+            "support": 91489.0
+        },
+        "4": {
+            "precision": 0.6429942418426103,
+            "recall": 0.5339496334077144,
+            "f1-score": 0.5834204110066179,
+            "support": 18822.0
+        },
+        "accuracy": 0.9380478987214672,
+        "macro avg": {
+            "precision": 0.8184002462565962,
+            "recall": 0.6906494312466297,
+            "f1-score": 0.73532130131599,
+            "support": 772839.0
+        },
+        "weighted avg": {
+            "precision": 0.9362353738163538,
+            "recall": 0.9380478987214672,
+            "f1-score": 0.9361766724241521,
+            "support": 772839.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            3641,
+            5065,
+            110,
+            0
+        ],
+        [
+            703,
+            633869,
+            13633,
+            5507
+        ],
+        [
+            10,
+            14006,
+            77400,
+            73
+        ],
+        [
+            0,
+            7113,
+            1659,
+            10050
+        ]
+    ],
+    "evaluation_timestamp": "20250112_041331",
+    "model_path": "/teamspace/studios/this_studio/Assignment-TechstaX/models/final_model.pt",
+    "test_data_path": "/teamspace/studios/this_studio/Assignment-TechstaX/data/test_data.csv"
+}

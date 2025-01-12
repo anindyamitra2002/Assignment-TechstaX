@@ -189,7 +189,7 @@ class ModelEvaluator:
         
         # Log confusion matrix
         wandb.log({
-            "confusion_matrix": wandb.plots.HeatMap(
+            "confusion_matrix": wandb.plot.HeatMap(
                 list(self.label_encoder.classes_),
                 list(self.label_encoder.classes_),
                 self.conf_matrix.tolist(),

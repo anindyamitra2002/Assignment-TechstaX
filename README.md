@@ -1,4 +1,4 @@
-# Accident Predictor Model Documentation
+# Accident Severity Predictor
 
 ## Overview
 

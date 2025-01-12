@@ -1,0 +1,146 @@
+
+==================================================
+Starting training on chunk 1
+Timestamp: 2025-01-11 18:59:09
+==================================================
+Epoch 00 - Train Loss: 0.1328 - Train Acc: 0.9688 - Train F1: 0.9707 - Val Loss: 0.1849 - Val Acc: 0.9373 - Val F1: 0.9284
+Epoch 01 - Train Loss: 0.1753 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1903 - Val Acc: 0.9377 - Val F1: 0.9300
+Epoch 02 - Train Loss: 0.1413 - Train Acc: 0.9375 - Train F1: 0.9218 - Val Loss: 0.1849 - Val Acc: 0.9372 - Val F1: 0.9294
+Epoch 03 - Train Loss: 0.0546 - Train Acc: 0.9688 - Train F1: 0.9707 - Val Loss: 0.1922 - Val Acc: 0.9376 - Val F1: 0.9292
+Epoch 04 - Train Loss: 0.1428 - Train Acc: 0.9062 - Train F1: 0.9029 - Val Loss: 0.1869 - Val Acc: 0.9379 - Val F1: 0.9308
+Epoch 05 - Train Loss: 0.2484 - Train Acc: 0.9688 - Train F1: 0.9673 - Val Loss: 0.1763 - Val Acc: 0.9396 - Val F1: 0.9314
+Epoch 06 - Train Loss: 0.0619 - Train Acc: 0.9688 - Train F1: 0.9638 - Val Loss: 0.1766 - Val Acc: 0.9394 - Val F1: 0.9315
+Epoch 07 - Train Loss: 0.1699 - Train Acc: 0.9688 - Train F1: 0.9534 - Val Loss: 0.1880 - Val Acc: 0.9374 - Val F1: 0.9302
+Epoch 08 - Train Loss: 0.2401 - Train Acc: 0.8750 - Train F1: 0.8687 - Val Loss: 0.1751 - Val Acc: 0.9394 - Val F1: 0.9314
+Epoch 09 - Train Loss: 0.2150 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1876 - Val Acc: 0.9390 - Val F1: 0.9316
+
+==================================================
+Starting training on chunk 10
+Timestamp: 2025-01-11 19:36:55
+==================================================
+Epoch 00 - Train Loss: 0.0934 - Train Acc: 0.9375 - Train F1: 0.9250 - Val Loss: 0.1944 - Val Acc: 0.9390 - Val F1: 0.9309
+Epoch 01 - Train Loss: 0.1343 - Train Acc: 0.9375 - Train F1: 0.9324 - Val Loss: 0.1815 - Val Acc: 0.9399 - Val F1: 0.9320
+Epoch 02 - Train Loss: 0.2802 - Train Acc: 0.8750 - Train F1: 0.8709 - Val Loss: 0.2111 - Val Acc: 0.9385 - Val F1: 0.9305
+Epoch 03 - Train Loss: 0.1360 - Train Acc: 0.9688 - Train F1: 0.9534 - Val Loss: 0.1888 - Val Acc: 0.9389 - Val F1: 0.9313
+Epoch 04 - Train Loss: 0.2592 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1949 - Val Acc: 0.9384 - Val F1: 0.9310
+Epoch 05 - Train Loss: 0.1210 - Train Acc: 0.9688 - Train F1: 0.9676 - Val Loss: 0.1827 - Val Acc: 0.9396 - Val F1: 0.9307
+Epoch 06 - Train Loss: 0.1709 - Train Acc: 0.8750 - Train F1: 0.8839 - Val Loss: 0.1845 - Val Acc: 0.9403 - Val F1: 0.9334
+
+==================================================
+Starting training on chunk 11
+Timestamp: 2025-01-11 20:05:43
+==================================================
+Epoch 00 - Train Loss: 0.2308 - Train Acc: 0.8750 - Train F1: 0.8167 - Val Loss: 0.1808 - Val Acc: 0.9395 - Val F1: 0.9309
+Epoch 01 - Train Loss: 0.4390 - Train Acc: 0.8750 - Train F1: 0.8167 - Val Loss: 0.1790 - Val Acc: 0.9391 - Val F1: 0.9315
+Epoch 02 - Train Loss: 0.0234 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1820 - Val Acc: 0.9396 - Val F1: 0.9317
+Epoch 03 - Train Loss: 0.2941 - Train Acc: 0.8750 - Train F1: 0.8182 - Val Loss: 0.1880 - Val Acc: 0.9402 - Val F1: 0.9324
+Epoch 04 - Train Loss: 0.0642 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.2062 - Val Acc: 0.9391 - Val F1: 0.9304
+Epoch 05 - Train Loss: 0.0481 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1952 - Val Acc: 0.9389 - Val F1: 0.9314
+Epoch 06 - Train Loss: 0.0517 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1957 - Val Acc: 0.9385 - Val F1: 0.9309
+
+==================================================
+Starting training on chunk 2
+Timestamp: 2025-01-11 20:22:37
+==================================================
+Epoch 00 - Train Loss: 0.1283 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1834 - Val Acc: 0.9398 - Val F1: 0.9324
+Epoch 01 - Train Loss: 0.0558 - Train Acc: 0.9688 - Train F1: 0.9673 - Val Loss: 0.1981 - Val Acc: 0.9388 - Val F1: 0.9307
+Epoch 02 - Train Loss: 0.1200 - Train Acc: 0.9375 - Train F1: 0.9325 - Val Loss: 0.1828 - Val Acc: 0.9397 - Val F1: 0.9320
+Epoch 03 - Train Loss: 0.0369 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1833 - Val Acc: 0.9401 - Val F1: 0.9322
+Epoch 04 - Train Loss: 0.1725 - Train Acc: 0.9062 - Train F1: 0.8999 - Val Loss: 0.1937 - Val Acc: 0.9399 - Val F1: 0.9316
+Epoch 05 - Train Loss: 0.0413 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1773 - Val Acc: 0.9402 - Val F1: 0.9319
+Epoch 06 - Train Loss: 0.1914 - Train Acc: 0.9062 - Train F1: 0.9020 - Val Loss: 0.1938 - Val Acc: 0.9391 - Val F1: 0.9315
+Epoch 07 - Train Loss: 0.1250 - Train Acc: 0.9062 - Train F1: 0.9004 - Val Loss: 0.1774 - Val Acc: 0.9406 - Val F1: 0.9327
+Epoch 08 - Train Loss: 0.0230 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1813 - Val Acc: 0.9402 - Val F1: 0.9335
+Epoch 09 - Train Loss: 0.0359 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1863 - Val Acc: 0.9393 - Val F1: 0.9320
+
+==================================================
+Starting training on chunk 3
+Timestamp: 2025-01-11 21:02:03
+==================================================
+Epoch 00 - Train Loss: 0.0866 - Train Acc: 0.9688 - Train F1: 0.9659 - Val Loss: 0.1888 - Val Acc: 0.9408 - Val F1: 0.9332
+Epoch 01 - Train Loss: 0.2975 - Train Acc: 0.8125 - Train F1: 0.7438 - Val Loss: 0.1863 - Val Acc: 0.9396 - Val F1: 0.9318
+Epoch 02 - Train Loss: 0.2604 - Train Acc: 0.9375 - Train F1: 0.9080 - Val Loss: 0.1779 - Val Acc: 0.9408 - Val F1: 0.9336
+Epoch 03 - Train Loss: 0.1839 - Train Acc: 0.8750 - Train F1: 0.8552 - Val Loss: 0.1823 - Val Acc: 0.9405 - Val F1: 0.9323
+Epoch 04 - Train Loss: 0.0577 - Train Acc: 0.9688 - Train F1: 0.9534 - Val Loss: 0.1872 - Val Acc: 0.9401 - Val F1: 0.9327
+Epoch 05 - Train Loss: 0.1770 - Train Acc: 0.9375 - Train F1: 0.9524 - Val Loss: 0.1855 - Val Acc: 0.9401 - Val F1: 0.9323
+Epoch 06 - Train Loss: 0.1401 - Train Acc: 0.9375 - Train F1: 0.9222 - Val Loss: 0.1971 - Val Acc: 0.9400 - Val F1: 0.9322
+Epoch 07 - Train Loss: 0.1549 - Train Acc: 0.9688 - Train F1: 0.9658 - Val Loss: 0.1908 - Val Acc: 0.9407 - Val F1: 0.9330
+
+==================================================
+Starting training on chunk 4
+Timestamp: 2025-01-11 21:34:19
+==================================================
+Epoch 00 - Train Loss: 0.0837 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1863 - Val Acc: 0.9408 - Val F1: 0.9324
+Epoch 01 - Train Loss: 0.2503 - Train Acc: 0.9062 - Train F1: 0.8912 - Val Loss: 0.1888 - Val Acc: 0.9410 - Val F1: 0.9328
+Epoch 02 - Train Loss: 0.3617 - Train Acc: 0.9062 - Train F1: 0.8915 - Val Loss: 0.2602 - Val Acc: 0.9404 - Val F1: 0.9325
+Epoch 03 - Train Loss: 0.3453 - Train Acc: 0.8750 - Train F1: 0.8750 - Val Loss: 0.1917 - Val Acc: 0.9403 - Val F1: 0.9321
+Epoch 04 - Train Loss: 0.6043 - Train Acc: 0.8750 - Train F1: 0.8565 - Val Loss: 0.1841 - Val Acc: 0.9412 - Val F1: 0.9336
+Epoch 05 - Train Loss: 0.0769 - Train Acc: 0.9688 - Train F1: 0.9679 - Val Loss: 0.1967 - Val Acc: 0.9404 - Val F1: 0.9331
+Epoch 06 - Train Loss: 0.1901 - Train Acc: 0.9688 - Train F1: 0.9841 - Val Loss: 0.1880 - Val Acc: 0.9411 - Val F1: 0.9330
+Epoch 07 - Train Loss: 0.1002 - Train Acc: 0.9688 - Train F1: 0.9668 - Val Loss: 0.1938 - Val Acc: 0.9301 - Val F1: 0.9338
+Epoch 08 - Train Loss: 0.1586 - Train Acc: 0.9062 - Train F1: 0.9020 - Val Loss: 0.1795 - Val Acc: 0.9410 - Val F1: 0.9327
+Epoch 09 - Train Loss: 0.1278 - Train Acc: 0.9688 - Train F1: 0.9638 - Val Loss: 0.1832 - Val Acc: 0.9413 - Val F1: 0.9334
+
+==================================================
+Starting training on chunk 5
+Timestamp: 2025-01-11 22:14:40
+==================================================
+Epoch 00 - Train Loss: 0.2499 - Train Acc: 0.9375 - Train F1: 0.9219 - Val Loss: 0.2210 - Val Acc: 0.9411 - Val F1: 0.9334
+Epoch 01 - Train Loss: 0.0262 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.2835 - Val Acc: 0.9407 - Val F1: 0.9328
+Epoch 02 - Train Loss: 0.1655 - Train Acc: 0.9375 - Train F1: 0.9343 - Val Loss: 0.3511 - Val Acc: 0.9402 - Val F1: 0.9323
+Epoch 03 - Train Loss: 0.0420 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.3847 - Val Acc: 0.9399 - Val F1: 0.9322
+Epoch 04 - Train Loss: 0.0959 - Train Acc: 0.9688 - Train F1: 0.9682 - Val Loss: 0.5030 - Val Acc: 0.9390 - Val F1: 0.9318
+Epoch 05 - Train Loss: 0.1056 - Train Acc: 0.9375 - Train F1: 0.9308 - Val Loss: 0.4304 - Val Acc: 0.9405 - Val F1: 0.9317
+
+==================================================
+Starting training on chunk 6
+Timestamp: 2025-01-11 22:40:41
+==================================================
+Epoch 00 - Train Loss: 0.3686 - Train Acc: 0.8750 - Train F1: 0.8583 - Val Loss: 0.1741 - Val Acc: 0.9416 - Val F1: 0.9328
+Epoch 01 - Train Loss: 0.1321 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1860 - Val Acc: 0.9399 - Val F1: 0.9318
+Epoch 02 - Train Loss: 0.1620 - Train Acc: 0.9062 - Train F1: 0.8910 - Val Loss: 0.1833 - Val Acc: 0.9405 - Val F1: 0.9314
+Epoch 03 - Train Loss: 0.1559 - Train Acc: 0.9375 - Train F1: 0.9345 - Val Loss: 0.1888 - Val Acc: 0.9400 - Val F1: 0.9320
+Epoch 04 - Train Loss: 0.1207 - Train Acc: 0.9688 - Train F1: 0.9702 - Val Loss: 0.1828 - Val Acc: 0.9411 - Val F1: 0.9331
+Epoch 05 - Train Loss: 0.2981 - Train Acc: 0.9688 - Train F1: 0.9674 - Val Loss: 0.1926 - Val Acc: 0.9401 - Val F1: 0.9323
+
+==================================================
+Starting training on chunk 7
+Timestamp: 2025-01-11 23:07:11
+==================================================
+Epoch 00 - Train Loss: 0.2157 - Train Acc: 0.9062 - Train F1: 0.9029 - Val Loss: 0.1799 - Val Acc: 0.9411 - Val F1: 0.9332
+Epoch 01 - Train Loss: 0.1295 - Train Acc: 0.9688 - Train F1: 0.9677 - Val Loss: 0.1863 - Val Acc: 0.9400 - Val F1: 0.9323
+Epoch 02 - Train Loss: 0.1994 - Train Acc: 0.9375 - Train F1: 0.9177 - Val Loss: 0.1791 - Val Acc: 0.9404 - Val F1: 0.9312
+Epoch 03 - Train Loss: 0.1175 - Train Acc: 0.9688 - Train F1: 0.9659 - Val Loss: 0.1786 - Val Acc: 0.9408 - Val F1: 0.9328
+Epoch 04 - Train Loss: 0.0926 - Train Acc: 0.9688 - Train F1: 0.9682 - Val Loss: 0.1915 - Val Acc: 0.9408 - Val F1: 0.9323
+Epoch 05 - Train Loss: 0.3522 - Train Acc: 0.9062 - Train F1: 0.8987 - Val Loss: 0.1893 - Val Acc: 0.9409 - Val F1: 0.9321
+Epoch 06 - Train Loss: 0.1658 - Train Acc: 0.9375 - Train F1: 0.9208 - Val Loss: 0.1835 - Val Acc: 0.9405 - Val F1: 0.9329
+Epoch 07 - Train Loss: 0.1682 - Train Acc: 0.9688 - Train F1: 0.9543 - Val Loss: 0.1959 - Val Acc: 0.9400 - Val F1: 0.9324
+Epoch 08 - Train Loss: 0.3068 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1913 - Val Acc: 0.9397 - Val F1: 0.9300
+
+==================================================
+Starting training on chunk 8
+Timestamp: 2025-01-11 23:42:54
+==================================================
+Epoch 00 - Train Loss: 0.1359 - Train Acc: 0.9375 - Train F1: 0.9221 - Val Loss: 0.1908 - Val Acc: 0.9399 - Val F1: 0.9312
+Epoch 01 - Train Loss: 0.2137 - Train Acc: 0.9375 - Train F1: 0.9228 - Val Loss: 0.2076 - Val Acc: 0.9387 - Val F1: 0.9305
+Epoch 02 - Train Loss: 0.0796 - Train Acc: 0.9688 - Train F1: 0.9638 - Val Loss: 0.1853 - Val Acc: 0.9393 - Val F1: 0.9300
+Epoch 03 - Train Loss: 0.1009 - Train Acc: 0.9688 - Train F1: 0.9680 - Val Loss: 0.1942 - Val Acc: 0.9398 - Val F1: 0.9310
+Epoch 04 - Train Loss: 0.1259 - Train Acc: 0.9375 - Train F1: 0.9354 - Val Loss: 0.2143 - Val Acc: 0.9287 - Val F1: 0.9327
+Epoch 05 - Train Loss: 0.1437 - Train Acc: 0.9688 - Train F1: 0.9679 - Val Loss: 0.1976 - Val Acc: 0.9394 - Val F1: 0.9308
+Epoch 06 - Train Loss: 0.0522 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1873 - Val Acc: 0.9398 - Val F1: 0.9320
+Epoch 07 - Train Loss: 0.0802 - Train Acc: 0.9688 - Train F1: 0.9534 - Val Loss: 0.1976 - Val Acc: 0.9391 - Val F1: 0.9307
+
+==================================================
+Starting training on chunk 9
+Timestamp: 2025-01-12 00:14:36
+==================================================
+Epoch 00 - Train Loss: 0.1949 - Train Acc: 0.9375 - Train F1: 0.9309 - Val Loss: 0.1778 - Val Acc: 0.9407 - Val F1: 0.9326
+Epoch 01 - Train Loss: 0.3534 - Train Acc: 0.9062 - Train F1: 0.8767 - Val Loss: 0.1865 - Val Acc: 0.9416 - Val F1: 0.9333
+Epoch 02 - Train Loss: 0.1922 - Train Acc: 0.9062 - Train F1: 0.8963 - Val Loss: 0.1846 - Val Acc: 0.9413 - Val F1: 0.9332
+Epoch 03 - Train Loss: 0.2162 - Train Acc: 0.8750 - Train F1: 0.8670 - Val Loss: 0.1787 - Val Acc: 0.9410 - Val F1: 0.9333
+Epoch 04 - Train Loss: 0.2971 - Train Acc: 0.8438 - Train F1: 0.8348 - Val Loss: 0.1774 - Val Acc: 0.9413 - Val F1: 0.9342
+Epoch 05 - Train Loss: 0.1432 - Train Acc: 0.9062 - Train F1: 0.8984 - Val Loss: 0.1804 - Val Acc: 0.9418 - Val F1: 0.9336
+Epoch 06 - Train Loss: 0.2008 - Train Acc: 0.9375 - Train F1: 0.9375 - Val Loss: 0.1909 - Val Acc: 0.9402 - Val F1: 0.9326
+Epoch 07 - Train Loss: 0.2633 - Train Acc: 0.9688 - Train F1: 0.9676 - Val Loss: 0.1844 - Val Acc: 0.9414 - Val F1: 0.9331
+Epoch 08 - Train Loss: 0.0573 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1803 - Val Acc: 0.9408 - Val F1: 0.9336
+Epoch 09 - Train Loss: 0.0279 - Train Acc: 1.0000 - Train F1: 1.0000 - Val Loss: 0.1796 - Val Acc: 0.9387 - Val F1: 0.9354
